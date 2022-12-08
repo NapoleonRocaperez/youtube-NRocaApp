@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086626510257",
+    "project_id": "nrocaapp",
+    "storage_bucket": "nrocaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086626510257:android:7bc8463679867904ecf990",
+        "android_client_info": {
+          "package_name": "com.example.nrocaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086626510257-ribpcmg3eli218dajqgcjeq2foc3mkh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nrocaapp",
+            "certificate_hash": "27cf48d1ae62318d1b8551b73fc37c38f86d874c"
+          }
+        },
+        {
+          "client_id": "1086626510257-eqb2l7h84pagv6ds6lqg769nhjkasjdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0uW-HysxvTek988FY5XoyiYhjk6hwl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086626510257-eqb2l7h84pagv6ds6lqg769nhjkasjdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
