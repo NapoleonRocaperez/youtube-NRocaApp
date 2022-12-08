@@ -11,6 +11,7 @@ import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
 
@@ -22,6 +23,7 @@ import java.io.File;
 public class PostActivity extends AppCompatActivity {
     ImageView imageViewPost1;
     File Imagefile;
+    Button ButtonPost;
     private final  int Gallery_REQUEST_CODE=1;
     private ActivityResultLauncher<Intent> intentLauncher;
 
