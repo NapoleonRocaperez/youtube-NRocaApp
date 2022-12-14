@@ -94,7 +94,7 @@
                     android:id="@+id/TextViewInputConsola"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Correo Electónico"
+                    android:hint="Título del juego"
                     android:background="@color/transparente"
                     android:inputType="text"/>
 
@@ -124,7 +124,7 @@
                     android:id="@+id/TextViewInputDescription"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Correo Electónico"
+                    android:hint="Descripción"
                     android:background="@color/transparente"
                     android:inputType="text"/>
 
@@ -133,6 +133,7 @@
         </LinearLayout>
 
         <TextView
+            android:id="@+id/TextViewCategory"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="CATEGORIAS"
@@ -271,7 +272,7 @@
                     app:cardElevation="10dp">
 
                     <ImageView
-                        android:id="@+id/ImageViewNINTEDO"
+                        android:id="@+id/ImageViewNINTENDO"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:src="@drawable/ic_nintendo"/>
